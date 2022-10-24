@@ -7,8 +7,8 @@ This method is how I really learn to respect the complexity, or simplicity of ef
 Having always been a visual learning, these notebooks are also where I create visualizations along the way to help understand the moving parts, relationships and results.
 
 ## Completed
-Gradient Descent + Linear Regression
-KMeans Clustering
+* Gradient Descent + Linear Regression
+* KMeans Clustering
 
 ## Work in progress
 Neural Networks (Multi-layer perceptron)
