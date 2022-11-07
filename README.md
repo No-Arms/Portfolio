@@ -1,6 +1,6 @@
-# Portfolio
-Hi! My name is Noah Armsworthy, and this is my portfolio of personal project since graduating from University. 
-My portfolio is where I aim to break open the black box of Machine Learning models and build them from scratch using basic Python libraries. 
+# Breaking Open the Black-box
+Hi! My name is Noah Armsworthy, and this is my personal project since graduating from University. 
+This is where I aim to break open the black box of Machine Learning models and build them from scratch using basic Python libraries. 
 
 This method is how I really learn to respect the complexity, or simplicity of effective models and solidify my comprehension of the components that make them.
 
