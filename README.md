@@ -1,4 +1,4 @@
-# Breaking Open the Black-box
+# Portfolio
 Hi! My name is Noah Armsworthy, and this is my personal project since graduating from University with a Bachelor of Computer Science and a Certificate in Artificial Intelligence and Intelligent Systems. 
 This is where I aim to break open the black box of Machine Learning components and models by building and testing them, sometimes from scratch using basic Python libraries. 
 
